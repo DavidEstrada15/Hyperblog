@@ -9,5 +9,6 @@ El Curso de Git y Github me esta sirviendo para conocer esta interesante herrami
 *Como hacer tags.
 *Buenas practicas.
 *Algo de esquizofrenia con el profesor Freddy.
+*Creado por mi.
 
 **Eso ultimo era broma** recomendado los cursos que llevo de Platzi, incluyendo el preconocimientos y Terminal de Linux.
