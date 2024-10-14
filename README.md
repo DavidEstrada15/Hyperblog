@@ -10,5 +10,7 @@ El Curso de Git y Github me esta sirviendo para conocer esta interesante herrami
 *Buenas practicas.
 *Algo de esquizofrenia con el profesor Freddy.
 *Creado por mi.
+*Incluye ejemplos en Windows.
+
 
 **Eso ultimo era broma** recomendado los cursos que llevo de Platzi, incluyendo el preconocimientos y Terminal de Linux.
